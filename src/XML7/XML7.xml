@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<facturadeempresa>
+    <Bussinesname>
+        <direccion></direccion>
+        <ciudad></ciudad>
+        <estado></estado>
+        <Zipcode></Zipcode>
+    </Bussinesname>
+    <Email></Email>
+    <Website></Website>
+    <Billto>
+        <Clientname></Clientname>
+        <StreetAdress></StreetAdress>
+        <City></City>
+        <State></State>
+        <Zipcode></Zipcode>
+    </Billto>
+    <Shipto>
+        <clientname></clientname>
+        <StreetAdress></StreetAdress>
+        <City></City>
+        <State></State>
+        <Zipcode></Zipcode>
+    </Shipto>
+    <invoicedtetails>
+        <number></number>
+        <date></date>
+        <Termsofpayment></Termsofpayment>
+    </invoicedtetails>
+    <ProducteorService>
+        <description></description>
+        <hrs></hrs>
+        <rate></rate>
+        <amount></amount>
+    </ProducteorService>
+</facturadeempresa>

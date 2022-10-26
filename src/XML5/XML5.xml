@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tiposdearboles>
+    <Acermonspessulanum>
+        <nombrecomnun>Arce de Montepellier, Arce menor</nombrecomnun>
+        <vegetacion>Caducifolio</vegetacion>
+        <altura>De 6 a 10 metros</altura>
+        <Formayestructura>Copa esferica. Tronco principal recto con bifuraciones. Ramaje Colgante</Formayestructura>
+        <colorenprimavera>Haz verde brillante, enves verde blanquecino</colorenprimavera>
+        <resistenciaaheladas>Heladas fuertes (hasta -15ºC)</resistenciaaheladas>
+    </Acermonspessulanum>
+    <Oleaeuropea>
+        <nombrecomnun>Olivo</nombrecomnun>
+        <vegetacion>Perenne</vegetacion>
+        <altura>De 8 a 15 metros</altura>
+        <Formayestructura>Copa irregular. Tronco principal irregular con bifurcaciones.</Formayestructura>
+    </Oleaeuropea>
+    <Ramajetortuoso>
+        <colorenprimavera>Haz verde oscuro, envés verde plateado</colorenprimavera>
+        <resistenciaaheladas>Heladas medias (hasta -10ºC)</resistenciaaheladas>
+    </Ramajetortuoso>
+    <Platanusorientails>
+        <nombrecomnun>Platano</nombrecomnun>
+        <vegetacion>Caducifolio</vegetacion>
+        <altura>De 20 a 25 metros</altura>
+        <Formayestructura>Copa ovoidal. Tronco principal recto. Ramaje expandido</Formayestructura>
+        <colorenprimavera>Haz verde medio, enves verde claro</colorenprimavera>
+        <colorenotoño>Ocre</colorenotoño>
+        <resistenciaaheladas>Heladas fuertes (hasta -20ºC)</resistenciaaheladas>
+    </Platanusorientails>
+    <Quercusilex>
+        <nombrecomnun>Encina</nombrecomnun>
+        <vegetacion>Perenne</vegetacion>
+        <altura>En torno a 25 metros</altura>
+        <Formayestructura> Copa esférica o elíptica irregular. Tronco principal recto. Ramaje tortuoso</Formayestructura>
+        <colorenprimavera> Plateado en hojas jóvenes. En hojas antiguas, haz verde oscuro, envés plateado</colorenprimavera>
+        <resistenciaaheladas>Heladas fuertes (hasta -15ºC)</resistenciaaheladas>
+    </Quercusilex>
+
+</tiposdearboles>
